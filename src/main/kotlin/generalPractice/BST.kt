@@ -1,5 +1,7 @@
 package generalPractice
 
+import kotlin.jvm.Throws
+
 fun main() {
     val bst = BinarySearchTree()
     bst.insert(5)
@@ -36,7 +38,7 @@ class BinarySearchTree{
 
         if (data < node.data) {
              node.left = insertItem(node.left, data)
-        } else {
+        } else if (data > node.data) {
              node.right = insertItem(node.right, data)
         }
         return node
