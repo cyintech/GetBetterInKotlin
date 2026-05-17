@@ -1,6 +1,4 @@
-package generalPractice
-
-import kotlin.jvm.Throws
+package general.practice
 
 fun main() {
     val bst = BinarySearchTree()

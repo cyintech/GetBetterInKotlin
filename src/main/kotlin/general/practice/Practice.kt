@@ -1,6 +1,5 @@
-package generalPractice
-import java.lang.Math.pow
-import kotlin.math.pow
+package general.practice
+
 fun main() {
 //    println("split by spaces".mySplit(","))
 //    println(" ".mySplit(','))

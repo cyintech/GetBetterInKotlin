@@ -1,4 +1,4 @@
-package generalPractice
+package general.practice
 
 fun commonNums(arr1 : IntArray, arr2 : IntArray) : String {
     var left = 0

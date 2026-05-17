@@ -1,4 +1,4 @@
-package generalPractice
+package general.practice
 
 fun main() {
     val list1 = DataNode(1)

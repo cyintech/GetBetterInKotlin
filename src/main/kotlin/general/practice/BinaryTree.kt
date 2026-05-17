@@ -1,4 +1,4 @@
-package generalPractice
+package general.practice
 
 import BinaryTree
 

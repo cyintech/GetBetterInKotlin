@@ -1,4 +1,4 @@
-package generalPractice
+package general.practice
 
 fun prefixSum(nums : IntArray, k : Int, j : Int) : Int {
     if (nums.size==1) {

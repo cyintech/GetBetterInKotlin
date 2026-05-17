@@ -1,4 +1,4 @@
-package generalPractice
+package general.practice
 
 fun main() {
     //sliding window technique to find max sum of 3 consecutive numbers
